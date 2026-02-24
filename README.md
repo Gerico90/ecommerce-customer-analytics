@@ -207,8 +207,3 @@ Los CSVs utilizados provienen de Kaggle y no se incluyen en este repositorio por
 - `daily ecommerce orders dataset` — para el archivo de órdenes
 
 ---
-
-## 👤 Autor
-
-**[Tu nombre]**
-[LinkedIn] · [Correo]
