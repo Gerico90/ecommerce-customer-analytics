@@ -1,0 +1,25 @@
+# Base de datos generada (se recrea con el pipeline)
+*.db
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# CSVs fuente (no se versionan por tamaño)
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
